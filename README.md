@@ -2,9 +2,9 @@
 
 ## Welcome to my GitHub profile!
 
- 🏊🏾 _From Clinical Physiology of Exercise to Programming. Trying to change at 31 years old.
+ 🏊🏾 From Clinical Physiology of Exercise to Programming. Trying to change at 31 years old.
  
- 💻 _Web Development student @ Intituto Metrópole Digital / Universidade Federal do Rio Grande do Norte
+ 💻 Web Development student @ Intituto Metrópole Digital / Universidade Federal do Rio Grande do Norte
  
  📚 Studying hard every day!
  
