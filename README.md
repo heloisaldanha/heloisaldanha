@@ -1,4 +1,4 @@
-# Hello, everyone! 🤙🏾
+# Hello, everyone! 🤙🏾 
 
 ## Welcome to my GitHub profile!
 
@@ -6,7 +6,7 @@
  
  💻 Web Development student @ Intituto Metrópole Digital / Universidade Federal do Rio Grande do Norte
  
- 📚 Studying hard every day!
+ :books:  Studying hard every day!
  
  💃🏾 she/her/they
 
