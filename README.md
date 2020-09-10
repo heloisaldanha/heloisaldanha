@@ -1,4 +1,4 @@
-# Hi there, people! 👋
+# Hello, everyone! 🤙🏾
 
 ## Welcome to my GitHub profile!
 
@@ -12,7 +12,7 @@
 
 ## My main focuses are:
   - Python
-  - Javascript
+  - JavaScript
   - HTML/CSS
 
 ![Hello world](https://github.com/heloisaldanha/heloisaldanha/blob/master/helloworld.gif)
