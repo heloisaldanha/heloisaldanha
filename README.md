@@ -1,15 +1,15 @@
 # Hello, everyone! 🤙🏾 
 
 ## Welcome to my GitHub profile!
+<pre>
+🏊🏾  From Clinical Physiology of Exercise to Programming.
+ 
+💻  Web Development student @ Intituto Metrópole Digital / Universidade Federal do Rio Grande do Norte.
+ 
+📚  Studying hard every day!
 
- 🏊🏾 From Clinical Physiology of Exercise to Programming. Trying to change at 31 years old.
- 
- 💻 Web Development student @ Intituto Metrópole Digital / Universidade Federal do Rio Grande do Norte
- 
- :books:  Studying hard every day!
- 
- 💃🏾 she/her/they
-
+💃🏾  She/her/they.
+</pre>
 ## My main focuses are:
   - Python
   - JavaScript
