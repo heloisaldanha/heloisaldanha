@@ -2,19 +2,20 @@
 
 ## Welcome to my GitHub profile!
 
- 🏊🏾 From Clinical Physiology of Exercise to Programming. Trying to change at 31 years old.
+ 🏊🏾  From Clinical Physiology of Exercise to Programming. Trying to change at 31 years old.
  
- 💻 Web Development student @ Intituto Metrópole Digital / UFRN
+ 💻  Web Development student @ Intituto Metrópole Digital / UFRN
  
- 📚 Studying hard every day!
+ 📚  Studying hard every day!
  
- 💃🏾 she/her/they
+ 💃🏾  she/her/they
 
-## My main focus is:
+## My main focuses are:
   - Python
   - Javascript
   - HTML/CSS
 
+![]()
 <!--
 **heloisaldanha/heloisaldanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
