@@ -4,7 +4,7 @@
 
  🏊🏾  From Clinical Physiology of Exercise to Programming. Trying to change at 31 years old.
  
- 💻  Web Development student @ Intituto Metrópole Digital / UFRN
+ 💻  Web Development student @ Intituto Metrópole Digital / Universidade Federal do Rio Grande do Norte
  
  📚  Studying hard every day!
  
