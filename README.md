@@ -1,15 +1,15 @@
 # Hello, everyone! 🤙🏾 
 
 ## Welcome to my GitHub profile!
-<pre>
-🏊🏾  From Clinical Physiology of Exercise to Programming.
- 
-💻  Web Development student @ Intituto Metrópole Digital / Universidade Federal do Rio Grande do Norte.
- 
-📚  Studying hard every day!
 
-💃🏾  She/her/they.
-</pre>
+🏊🏾 _&nbsp;_ From Clinical Physiology of Exercise to Programming.
+ 
+💻 _&nbsp;_ Web Development student @ Intituto Metrópole Digital / Universidade Federal do Rio Grande do Norte.
+ 
+📚 _&nbsp;_ Studying hard every day!
+
+💃🏾 _&nbsp;_ She/her/they.
+
 ## My main focuses are:
   - Python
   - JavaScript
