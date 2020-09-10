@@ -15,7 +15,7 @@
   - Javascript
   - HTML/CSS
 
-![Hello world](f2px36fy.gif)
+![Hello world](https://github.com/heloisaldanha/heloisaldanha/blob/master/helloworld.gif)
 <!--
 **heloisaldanha/heloisaldanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
