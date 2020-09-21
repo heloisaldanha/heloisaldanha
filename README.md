@@ -8,7 +8,7 @@
  
 📚 _&nbsp;_ Studying hard every day!
 
-💃🏾 _&nbsp;_ She/her/they.
+💃🏾 _&nbsp;_ She/her.
 
 ## My main focuses are:
   - Python
