@@ -13,6 +13,7 @@
 ## My main focuses are:
   - Python
   - Java
+  - MySQL
   - JavaScript
   - HTML/CSS
 
