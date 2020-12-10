@@ -15,7 +15,7 @@
   - Java
   - MySQL
   - JavaScript
-  - HTML/CSS
+  
 
 ![Hello world](https://github.com/heloisaldanha/heloisaldanha/blob/master/hello_world.gif)
 <!--
