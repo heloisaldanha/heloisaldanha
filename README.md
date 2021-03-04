@@ -11,10 +11,10 @@
 💃🏾 _&nbsp;_ She/her.
 
 ## My main focuses are:
-  - Python
-  - Java
+  - Python / Django
+  - Java / Spring
   - MySQL
-  - JavaScript
+  - HTML / CSS
   
 
 ![Hello world](https://github.com/heloisaldanha/heloisaldanha/blob/master/hello_world.gif)
