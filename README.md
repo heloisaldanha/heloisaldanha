@@ -6,7 +6,7 @@
  
 💻 _&nbsp;_ Web Development student @ Intituto Metrópole Digital [IMD] / Universidade Federal do Rio Grande do Norte [UFRN].
 
-💻 _&nbsp;_ Analysis and Systems Developmet student @ Universidade Estácio de Sá [UESA].
+💻 _&nbsp;_ Analysis and Systems Developmet student @ Universidade Estácio de Sá [UNESA].
  
 📚 _&nbsp;_ Studying hard every day!
 
